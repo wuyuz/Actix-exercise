@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c481c13-fbfc-43fb-b2d8-f0e97e283b4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/actor-ping/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/actor-ping/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/actor-ping/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_actix/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_actix/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_actix/src/main.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/actor-ping" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="hftmou3v" />
+  </component>
+  <component name="ProjectId" id="1mmL1juvHvCnYwIroRBgWtftE3s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.hideDetachedFileNotifications/Users/wangli/Desktop/Rust_Pro/actix_web/exam/src/main.rs" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Cargo Command.Run actor-ping">
+    <configuration name="Run actor-ping" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package actor-ping --bin actor-ping" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run exam" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package exam --bin exam" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run hello_actix" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package hello_actix --bin hello_actix" />
+      <option name="allFeatures" value="false" />
+      <option name="nocapture" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.Run actor-ping" />
+        <item itemvalue="Cargo Command.Run exam" />
+        <item itemvalue="Cargo Command.Run hello_actix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/hekki_actix" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="295" key="GridCell.Tab.0.bottom" timestamp="1610434212445">
+      <screen x="0" y="25" width="1680" height="970" />
+    </state>
+    <state width="1398" height="295" key="GridCell.Tab.0.bottom/0.25.1680.970/1680.25.2560.1415@0.25.1680.970" timestamp="1610434212445" />
+    <state width="1398" height="295" key="GridCell.Tab.0.center" timestamp="1610434212444">
+      <screen x="0" y="25" width="1680" height="970" />
+    </state>
+    <state width="1398" height="295" key="GridCell.Tab.0.center/0.25.1680.970/1680.25.2560.1415@0.25.1680.970" timestamp="1610434212444" />
+    <state width="1398" height="295" key="GridCell.Tab.0.left" timestamp="1610434212443">
+      <screen x="0" y="25" width="1680" height="970" />
+    </state>
+    <state width="1398" height="295" key="GridCell.Tab.0.left/0.25.1680.970/1680.25.2560.1415@0.25.1680.970" timestamp="1610434212443" />
+    <state width="1398" height="295" key="GridCell.Tab.0.right" timestamp="1610434212445">
+      <screen x="0" y="25" width="1680" height="970" />
+    </state>
+    <state width="1398" height="295" key="GridCell.Tab.0.right/0.25.1680.970/1680.25.2560.1415@0.25.1680.970" timestamp="1610434212445" />
+    <state x="280" y="71" key="SettingsEditor" timestamp="1610414359335">
+      <screen x="0" y="25" width="1680" height="970" />
+    </state>
+    <state x="280" y="71" key="SettingsEditor/0.25.1680.970/1680.25.2560.1415@0.25.1680.970" timestamp="1610414359335" />
+  </component>
+</project>

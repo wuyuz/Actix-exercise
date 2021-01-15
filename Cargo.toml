@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+    "hello_actix",
+    "exam",
+    "actor-ping",
+    "actor-handler",
+    "extractors",
+    "url-dispatch"
+]
